@@ -68,35 +68,35 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "Android Studio",
-      fontAwesomeClassname: "fab fa-android"
+      fontAwesomeClassname: "devicon-androidstudio-plain colored"
     },
     {
       skillName: "Java",
-      fontAwesomeClassname: "fab fa-java"
+      fontAwesomeClassname: "devicon-java-plain colored"
     },
     {
       skillName: "Kotlin",
-      fontAwesomeClassname: "fab fa-kotlin"
+      fontAwesomeClassname: "devicon-kotlin-plain colored"
     },
     {
       skillName: "Flutter",
-      fontAwesomeClassname: "fab fa-flutter"
+      fontAwesomeClassname: "devicon-flutter-plain colored"
     },
     {
       skillName: "Dart",
-      fontAwesomeClassname: "fab fa-dart-lang"
+      fontAwesomeClassname: "devicon-dart-plain colored"
     },
     {
       skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
+      fontAwesomeClassname: "devicon-sqldeveloper-plain"
     },
     {
       skillName: "Firebase",
-      fontAwesomeClassname: "fas fa-fire"
+      fontAwesomeClassname: "devicon-firebase-plain colored"
     },
     {
       skillName: "Git",
-      fontAwesomeClassname: "fab fa-git-alt"
+      fontAwesomeClassname: "devicon-git-plain colored"
     },
   ],
   display: true // Set false to hide this section, defaults to true
@@ -112,7 +112,7 @@ const educationInfo = {
       logo: itatsLogo,
       subHeader: "Bachelor Degree in Informatics Engineering",
       duration: "August 2014 - November 2019",
-      // desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Participated in the research of Unity Game Development and published 1 papers.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
